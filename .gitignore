@@ -1,0 +1,5 @@
+*.pdf
+immo_env
+*.exe
+scrapy.ipynb
+test.ipynb

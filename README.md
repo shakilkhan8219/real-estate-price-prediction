@@ -54,3 +54,7 @@ properties were collected by scraping the immoweb.
 beautifulsoup were used for extracting Links of the properties.
 All the required information related to property 
 from all the links were saved in a file(.CSV).
+
+## Test & deployment:
+An API (Application Programming Interface') is used to connect our application with the cloud. 
+in this project API is created to take new input data and return the price and know the predictions of the property sales in Belgium. We have used DOCKER to wrap the API and deployeed.

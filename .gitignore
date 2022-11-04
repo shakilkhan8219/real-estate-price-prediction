@@ -3,3 +3,10 @@ immo_env
 *.exe
 scrapy.ipynb
 test.ipynb
+*.csv
+test_02_Ml.ipynb
+test03_ml.ipynb
+test04.ipynb
+data_machine_learning.ipynb
+data_collection.ipynb
+data_cleaning.ipynb
